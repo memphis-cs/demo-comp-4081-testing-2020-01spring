@@ -61,3 +61,6 @@ gem 'annotate', group: :development
 
 # Authentication
 gem 'devise'
+
+# Statement coverage
+gem 'simplecov', require: false, group: :test
